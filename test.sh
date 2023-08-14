@@ -1,0 +1,1 @@
+Ping -c 4 www.google.de
